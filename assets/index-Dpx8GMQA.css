@@ -1,0 +1,1 @@
+*,*:before,*:after{box-sizing:border-box;margin:0;padding:0}html,body,#root{width:100%;height:100%;overflow:hidden;background:#000}:root[dir=rtl] *{letter-spacing:normal!important}@keyframes spin{to{transform:rotate(360deg)}}
